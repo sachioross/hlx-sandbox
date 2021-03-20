@@ -18,7 +18,7 @@
 
 # Helix - hello_helix
 
-It works! hello_helix is up and running.
+It works! hello_helix is up and running. OK, so this is from github.
 
 ## What's next?
 
